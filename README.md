@@ -1,6 +1,9 @@
 # GenomeHash
+
+## By Dr. Peter Markstein and Dr. Victoria Markstein
+
 Repo for GenomeHash program, mirror of https://sourceforge.net/projects/genomehash/files/
-By Dr. Peter Markstein and Dr. Victoria Markstein
+
 
 The genomehashpackage contains 9 zip files:
 	programs.zip
