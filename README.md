@@ -1,6 +1,6 @@
 # GenomeHash
 
-## By Dr. Peter Markstein and Dr. Victoria Markstein
+## Featured in pre-print https://www.biorxiv.org/content/early/2018/12/04/485300
 
 Repo for GenomeHash program, mirror of https://sourceforge.net/projects/genomehash/files/
 
